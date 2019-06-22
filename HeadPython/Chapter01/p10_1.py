@@ -1,7 +1,7 @@
 # Source: Chapter01/The Basics/p10_1.py
 # Book: Head First Python (2nd Edition) - Paul Barry
 # Name in the book: Up close with the standard library
-# Eclipse project: HeadFirstPython
+# Eclipse project: HeadPython
 
 '''
 Created on Apr 4, 2019
